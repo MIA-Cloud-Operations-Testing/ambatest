@@ -1,4 +1,4 @@
-name: DeployAmbaToSubscription
+name: DeployAmbaToSandbox
 
 on:
   workflow_dispatch: {}
